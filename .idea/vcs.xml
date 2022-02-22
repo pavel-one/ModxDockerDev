@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="VcsDirectoryMappings">
-    <mapping directory="$PROJECT_DIR$/app/core/packages/metronix-1.1.4-beta/modCategory/b0d10ddc4cc95c7ed8aacfccc63a3be7/0/MetroniX" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/app/manager/templates/MetroniX" vcs="Git" />
-  </component>
-</project>
